@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, me chamo Elder Borges</h1>
+<h1 align="center">Olá 👋, me chamo Elder Borges!</h1>
 <h3 align="center">Sou um estudante de tecnologia, apaixonado por aprender e com foco em desenvolvimento web!</h3>
 
-- 🌱 Aprimorando conhecimento em **Front-end com metas em desenvolvimento back-end**
+- 🌱 Aprimorando conhecimento em **Front-end com metas em back-end, visando alcançar o nível fullstack.**
 
 - 📫 E-mail **elders3288@outlook.com**
 
